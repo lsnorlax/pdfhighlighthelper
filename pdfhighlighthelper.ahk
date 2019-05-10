@@ -52,7 +52,7 @@ SetColour(x, y)
 ; 重要内容：红色
 ; Ctrl+1  
 ^1::
-SetColour(20, 100) 
+SetColour(245, 150) 
 return
 
 ; 结果、结论、总结：绿色
@@ -64,13 +64,13 @@ return
 ; 研究方法、数据来源：蓝色
 ; Ctrl+3
 ^3::
-SetColour(110, 115)
+SetColour(168, 21)
 return
 
 ; 分析、评论：紫色
 ; Ctrl+4
 ^4::
-SetColour(20, 115)
+SetColour(119, 81)
 return
 
 ; 普通默认黄色
